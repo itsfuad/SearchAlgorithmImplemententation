@@ -1,6 +1,5 @@
 #include <iostream>
-#include "mergeSort.hpp"
-
+#include "dependencies/mergeSort.hpp"
 
 //binary search using recursion
 
